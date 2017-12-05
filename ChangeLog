@@ -3,6 +3,31 @@ Changelog
 
 Here is the full history of mistune.
 
+Version 0.8.3
+~~~~~~~~~~~~~
+
+Relased on Dec. 04, 2017
+
+* Fix nested html issue. `#137`_
+
+.. _`#137`: https://github.com/lepture/mistune/pull/137
+
+
+Version 0.8.2
+~~~~~~~~~~~~~
+
+Relased on Dec. 04, 2017
+
+* Fix ``_keyify`` with lower case.
+
+
+Version 0.8.1
+~~~~~~~~~~~~~
+
+Released on Nov. 07, 2017
+
+* Security fix CVE-2017-16876, thanks Dawid Czarnecki
+
 Version 0.8
 ~~~~~~~~~~~
 
