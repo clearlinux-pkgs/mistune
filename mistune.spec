@@ -4,7 +4,7 @@
 #
 Name     : mistune
 Version  : 0.8.3
-Release  : 17
+Release  : 18
 URL      : http://pypi.debian.net/mistune/mistune-0.8.3.tar.gz
 Source0  : http://pypi.debian.net/mistune/mistune-0.8.3.tar.gz
 Summary  : The fastest markdown parser in pure Python
