@@ -4,7 +4,7 @@
 #
 Name     : mistune
 Version  : 2.0.0
-Release  : 43
+Release  : 44
 URL      : https://files.pythonhosted.org/packages/26/32/c1fe74f89ad288587f86ea00191ed5c1fd211a16ec3def07f2c6fad7fcde/mistune-2.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/26/32/c1fe74f89ad288587f86ea00191ed5c1fd211a16ec3def07f2c6fad7fcde/mistune-2.0.0.tar.gz
 Summary  : A sane Markdown parser with useful plugins and renderers
